@@ -1,0 +1,1 @@
+This repository demonstrates a common, yet easily overlooked, error in Tcl: unexpected string comparison using the `==` operator.  The example shows how comparing numeric strings with `==` leads to incorrect results. The solution highlights the correct way to compare numbers in Tcl using the `expr` command.
